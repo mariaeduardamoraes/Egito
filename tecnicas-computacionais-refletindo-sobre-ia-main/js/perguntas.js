@@ -44,10 +44,10 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Um chat com IA pode ser uma boa alternativa para realizar tarefas do dia a dia e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "No dia seguinte decidiu sair cedo para achar a pirâmide junto com sua equipe. Mas durante o percurso seu carro estragou.",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "Tentar arrumar o carro",
                 afirmacao: [
                     "Conseguiu utilizar a IA para buscar informações úteis.",
                     "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
@@ -56,7 +56,7 @@ export const perguntas = [
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Esperar ajuda",
                 afirmacao: [
                     "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
                     "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
@@ -88,7 +88,7 @@ export const perguntas = [
         ]
     },
     {
-        enquando a acendeu se deparou com muitas aranhas. unciado: "Uau, que alegria!! Vamos entrar, temos uma grande jornada pela frente, existe duas entradas em qual iremos? ",
+        enunciado: "Uau, que alegria!! Vamos entrar, temos uma grande jornada pela frente, existe duas entradas em qual iremos? ",
         alternativas: [
             {
                 texto: "Entrada da direita ",
@@ -112,7 +112,7 @@ export const perguntas = [
         enunciado: "Estava muito escuro, você foi pegar uma lanterna em sua bolsa e a acendeu, visualizou uma passagem mas havia um ninho de aranhas  " ,
         alternativas: [
             {
-                texto: "Tentar passar pela passagem sem ser mordido pelas aranhas  ",
+                texto: "Tentar passar pelo atalho sem ser mordido pelas aranhas  ",
                 afirmacao: [
                     "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
                     "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
@@ -120,7 +120,7 @@ export const perguntas = [
                 proxima: 7,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Voltar e escolher o outro caminho",
                 afirmacao: [
                     "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
                     "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
@@ -151,17 +151,17 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Você passou pelas aranhas, avistou a tumba e foi conferir o que tinha nela. Ao abrir se deparou com vários pertences valiosos.",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
+                texto: "Pegar uma amostra para levar ao laboratório",
                 afirmacao: [
                     "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes.",
                     "Ainda acha que os meios de desenho tradicionais são mais eficazes para a criatividade, por isso vem estimulando pessoas em suas redes sociais a fazer pintura em aquarela."
                 ],
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
+                texto: "Tirar fotos e mandar para o resto da equipe.",
                 afirmacao: [
                     "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!",
                     "Compartilhou artes em redes sociais como forma de ensinar como se comunicar através da arte.",
